@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Xiaomi/Documents/Programming/C++/Algorithms - Rafgaarden/Karatsuba/Karatsuba.cpp
+iostream
+-
+fstream
+-
+iterator
+-
+cmath
+-
+
