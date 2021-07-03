@@ -1,3 +1,0 @@
-C:/Users/Xiaomi/Documents/Programming/C++/Algorithms - Rafgaarden/Karatsuba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Xiaomi/Documents/Programming/C++/Algorithms - Rafgaarden/Karatsuba/cmake-build-debug/CMakeFiles/Karatsuba.dir
-C:/Users/Xiaomi/Documents/Programming/C++/Algorithms - Rafgaarden/Karatsuba/cmake-build-debug/CMakeFiles/edit_cache.dir
